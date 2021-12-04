@@ -1,0 +1,23 @@
+header{
+    background-color: #3b5897;
+}
+.color{
+    color: white;
+}
+
+.custom{
+    border-radius: 0px !important;
+    height: 24px !important;
+}
+.btn{
+    height: 27px !important;
+}
+h6{
+    margin-bottom: 22px !important;
+}
+section .f5{
+    margin-top: 20px;
+}
+section{
+    background-color:#edeff6;
+}
